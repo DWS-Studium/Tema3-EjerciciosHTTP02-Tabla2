@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio02",
+  "version": "1.0.0",
+  "description": "Crear una aplicación web en NodeJS que imprima por pantalla la tabla de multiplicar del número que se pasa por parámetro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Carballo",
+  "license": "ISC"
+}
